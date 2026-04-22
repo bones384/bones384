@@ -1,38 +1,19 @@
 <div align="center" style="text-align:center; display:flex; align-items: center; justify-content: center; color:red;flex-direction:column;">
 
-<sub>Tip: try switching between dark mode and light mode for different color palettes!</sub>
 
+ <picture>
+   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=bones384&theme=buefy&mode=weekly"> 
+   <img src="https://streak-stats.demolab.com?user=bones384&theme=midnight-purple&mode=weekly"  alt="GitHub Streak" width=400 /> 
+ </picture>
+<br>
+  <picture> 
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=bones384&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5&hide=cmake4&theme=buefy">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bones384&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5&hide=cmake" width=400>
+  </picture>
   
-  <div>
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=bones384&theme=buefy&mode=weekly"> 
-      <img src="https://streak-stats.demolab.com?user=bones384&theme=midnight-purple&mode=weekly" alt="GitHub Streak" /> 
-    </picture>
-  </div>
-
-**Currently learning:** Blazor, Unity DOTS, Machine Learning (Python)
-
----
-
-My work focuses on procedural generation, simulation, and performance-oriented systems.
-
-My current projects explore multithreading, SIMD, and data-oriented design across C++ and C#.
-
-Interests:
-- Procedural generation 
-- Compute shaders and GPU programming
-- Embedded and low-power systems
-
-I also work on game modding and hardware repair.
-
---- 
-  <div>
-    <picture> 
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=bones384&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5&hide=cmake4&theme=buefy"> 
-      <img src = "https://github-readme-stats.shion.dev/api/top-langs/?username=bones384&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5&hide=cmake">
-    </picture>
-  </div>
-
+  **Currently learning:** Blazor, Unity DOTS, Machine Learning (Python)
+  
+  <sub>Tip: try switching between dark mode and light mode for different color palettes!</sub>
 
 ---
 ## Projects
@@ -107,4 +88,19 @@ IDEs | [![My Skills](https://skillicons.dev/icons?i=clion,idea,rider,pycharm,and
 DBMS | [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
 Frameworks | [![My Skills](https://skillicons.dev/icons?i=django,dotnet,flask,arduino)](https://skillicons.dev) <img src=https://www.espressif.com/sites/all/themes/espressif/images/logo-guidelines/primary-vertical-logo.png alt="ESP-IDF" style="width: 6%; height: 6%; object-fit:scale-down;">
 Tools | [![My Skills](https://skillicons.dev/icons?i=cmake,docker,git,latex,linux,windows,postman,qt,unity)](https://skillicons.dev)
+
+---
+
+#### My Interests:
+
+Procedural generation 
+
+Compute shaders and GPU programming
+
+Embedded and low-power systems
+
+Hardware repair & disassembly
+
+Video game modding
+
 
