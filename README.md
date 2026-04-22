@@ -75,7 +75,7 @@ Simulation sandbox demonstrating a lightweight ECS through cellular systems. Fea
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bones384&repo=ECSCellularAutomata&theme=midnight-purple" />
   </picture>
 </a>
-</div>
+
 
 ---
 
@@ -103,4 +103,4 @@ Hardware repair & disassembly
 
 Video game modding
 
-
+</div>
