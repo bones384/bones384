@@ -67,7 +67,7 @@ High-performance image processing tool comparing C++ and x64 AVX assembly implem
 ---
 
 ### ECS Cellular Automata
-Simulation sandbox demonstrating a lightweight ECS through cellular systems. Features a real-time fire simulation and interactive Conway’s Game of Life with procedural generation.
+Simulation sandbox demonstrating a lightweight ECS through cellular systems. Features a real-time fire simulation with procedural generation and interactive Conway’s Game of Life.
 
 <a href="https://github.com/bones384/ECSCellularAutomata">
   <picture>
