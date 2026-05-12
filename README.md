@@ -23,8 +23,8 @@ C++ roguelike focused on a custom high-performance ECS architecture. Includes mu
 
 <a href="https://github.com/bones384/TitleRoguelike">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=bones384&repo=TitleRoguelike&theme=buefy">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bones384&repo=TitleRoguelike&theme=midnight-purple" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=bones384&repo=TitleRoguelike&theme=buefy">
+    <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=bones384&repo=TitleRoguelike&theme=midnight-purple" />
   </picture>
 </a>
 
@@ -35,8 +35,8 @@ Full-stack web application for community-driven verification of online content. 
 
 <a href="https://github.com/bones384/debunk">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=bones384&repo=debunk&theme=buefy">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bones384&repo=debunk&theme=midnight-purple" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=bones384&repo=debunk&theme=buefy">
+    <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=bones384&repo=debunk&theme=midnight-purple" />
   </picture>
 </a>
 
@@ -47,8 +47,8 @@ Low-power embedded system built on ESP32-S3 with custom PCB design. Integrates G
 
 <a href="https://github.com/bones384/ESP32S3SmartCalendar">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=bones384&repo=ESP32S3SmartCalendar&theme=buefy">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bones384&repo=ESP32S3SmartCalendar&theme=midnight-purple" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=bones384&repo=ESP32S3SmartCalendar&theme=buefy">
+    <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=bones384&repo=ESP32S3SmartCalendar&theme=midnight-purple" />
   </picture>
 </a>
 
@@ -59,8 +59,8 @@ High-performance image processing tool comparing C++ and x64 AVX assembly implem
 
 <a href="https://github.com/bones384/GaussASM">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=bones384&repo=GaussASM&theme=buefy">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bones384&repo=GaussASM&theme=midnight-purple" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=bones384&repo=GaussASM&theme=buefy">
+    <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=bones384&repo=GaussASM&theme=midnight-purple" />
   </picture>
 </a>
 
@@ -71,8 +71,8 @@ Simulation sandbox demonstrating a lightweight ECS through cellular systems. Fea
 
 <a href="https://github.com/bones384/ECSCellularAutomata">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=bones384&repo=ECSCellularAutomata&theme=buefy">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bones384&repo=ECSCellularAutomata&theme=midnight-purple" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=bones384&repo=ECSCellularAutomata&theme=buefy">
+    <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=bones384&repo=ECSCellularAutomata&theme=midnight-purple" />
   </picture>
 </a>
 
